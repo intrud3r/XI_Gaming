@@ -48,12 +48,11 @@
 		</group>
 		<group name="Land_MobileLaboratory" lootmax="5">
 				<usage name="Military" />
-				<usage name="Medic" />
+				<usage name="Medical" />
 				<usage name="ContaminatedArea" />
 				<container name="lootFloor" lootmax="5">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
+						<category name="containers" />						
 						<category name="weapons" />
 						<tag name="floor" />
 						<tag name="ground" />
@@ -93,8 +92,7 @@
 				</container>
 				<container name="lootshelves" lootmax="2">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
+						<category name="containers" />						
 						<category name="books" />
 						<point pos="-1.682320 -0.377224 -5.550613" range="0.271875" height="0.679688" />
 						<point pos="1.683430 -0.377224 -7.474107" range="0.271875" height="0.679688" />
@@ -171,8 +169,7 @@
 				</container>
 				<container name="lootshelves" lootmax="15">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
+						<category name="containers" />						
 						<category name="books" />
 						<tag name="shelves" />
 						<point pos="-9.160157 -9.384789 -11.827149" range="0.478125" height="1.195313" />
@@ -299,8 +296,7 @@
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
+						<category name="containers" />						
 						<tag name="floor" />
 						<point pos="-2.717287 -0.891541 3.522704" range="1.199951" height="2.000000" />
 						<point pos="4.843262 -0.891541 5.724365" range="1.199951" height="2.000000" />
@@ -335,9 +331,7 @@
 				</container>
 				<container name="lootshelves" lootmax="10">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="books" />
+						<category name="containers" />						
 						<tag name="shelves" />
 						<point pos="5.714357 -0.194443 8.131834" range="0.237500" height="0.593750" />
 						<point pos="2.578125 -0.223640 3.993652" range="0.164551" height="0.204201" />
@@ -563,11 +557,10 @@
 				</container>
 		</group>
 		<group name="Land_Medical_Tent_Shower" lootmax="4">
-				<usage name="Medic" />
+				<usage name="medical" />
 				<container name="lootFloor">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
+						<category name="containers" />						
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="floor" />
@@ -581,11 +574,12 @@
 				</container>
 		</group>
 		<group name="Land_Medical_Tent_Big" lootmax="8">
-				<usage name="Medic" />
+				<usage name="Medical" />
 				<container name="lootFloor">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
+						<category name="containers" />						
+						<category name="weapons" />
+						<category name="explosives" />						
 						<tag name="floor" />
 						<point pos="2.306692 0.034348 -4.021999" range="0.588774" height="1.887747" />
 						<point pos="-2.593843 0.007935 -1.565939" range="0.704102" height="1.760254" />
@@ -596,9 +590,8 @@
 				</container>
 				<container name="lootshelves" lootmax="6">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="books" />
+						<category name="containers" />						
+						<category name="medical" />
 						<tag name="shelves" />
 						<point pos="-0.943681 1.240356 -4.663615" range="0.100000" height="0.250000" />
 						<point pos="-1.474617 0.722397 1.206423" range="0.100000" height="0.250000" />
@@ -638,7 +631,7 @@
 				</container>
 		</group>
 		<group name="Land_Village_HealthCare" lootmax="15">
-				<usage name="Medic" />
+				<usage name="Medical" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -714,7 +707,7 @@
 				</container>
 		</group>		
 		<group name="Land_Village_HealthCare_East" lootmax="15">
-				<usage name="Medic" />
+				<usage name="Medical" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -752,7 +745,7 @@
 				</container>
 		</group>
 		<group name="Land_Village_HealthCare_Ghost1" lootmax="15">
-				<usage name="Medic" />
+				<usage name="Medical" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -777,7 +770,7 @@
 				</container>
 		</group>
 		<group name="Land_Village_HealthCare_Ghost2" lootmax="15">
-				<usage name="Medic" />
+				<usage name="Medical" />
 				<container name="lootshelves" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
