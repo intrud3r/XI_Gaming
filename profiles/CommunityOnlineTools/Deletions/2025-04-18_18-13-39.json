@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Apple",
+            "m_LocalPosition": [
+                5005.01806640625,
+                32.122623443603519,
+                6628.74658203125
+            ],
+            "m_LocalRotation": [
+                -42.331607818603519,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 10.0,
+                "m_Quantity": 125.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -17
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

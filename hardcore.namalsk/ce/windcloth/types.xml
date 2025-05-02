@@ -504,10 +504,10 @@
         <usage name="Village"/>
   </type>
     <type name="Layered_Shirt_Base">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -517,10 +517,10 @@
         <usage name="Village"/>
     </type>
     <type name="Layered_Shirt_White">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -530,10 +530,10 @@
         <usage name="Village"/>
     </type>
     <type name="Layered_Shirt_Cheburashka">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -543,10 +543,10 @@
         <usage name="Village"/>
     </type>
     <type name="Layered_Shirt_Courage">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -556,10 +556,10 @@
         <usage name="Village"/>
     </type>
     <type name="Layered_Shirt_Lily">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

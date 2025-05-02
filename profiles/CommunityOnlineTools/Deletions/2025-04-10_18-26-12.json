@@ -1,0 +1,193 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "M4A1",
+            "m_LocalPosition": [
+                11005.568359375,
+                1020.1237182617188,
+                1617.6531982421876
+            ],
+            "m_LocalRotation": [
+                53.306427001953128,
+                77.95513153076172,
+                -83.8228530883789
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "M4_MPBttstck",
+                    "m_Data": {
+                        "m_Health": 220.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "M4_MPHndgrd",
+                    "m_Data": {
+                        "m_Health": 220.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_CMAG_30Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Aug",
+            "m_LocalPosition": [
+                11012.599609375,
+                1032.611328125,
+                1655.54052734375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "M68Optic",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_STANAG_30Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "UniversalLight",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Aug",
+            "m_LocalPosition": [
+                10996.1787109375,
+                1008.4299926757813,
+                1581.1751708984376
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_CMAG_40Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "UniversalLight",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "dzn_ElectronicRepairKit",
+            "m_LocalPosition": [
+                11084.2470703125,
+                1003.8795166015625,
+                1620.07568359375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_STANAG_60Rnd",
+            "m_LocalPosition": [
+                11003.625,
+                1019.817626953125,
+                1613.247314453125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}
