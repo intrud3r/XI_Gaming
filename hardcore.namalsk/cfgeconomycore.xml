@@ -20,6 +20,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</ce>
 	<ce folder="XI_Zombie">
 		<file name="types_zombie.xml" type="types" />
+		<file name="types_heli.xml" type="types" />
 		<file name="events_zombie.xml" type="events" />
 	</ce>
 	<ce folder="ce/tsoptional">
