@@ -69,7 +69,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ce/pokis">
 	   <file name="types.xml" type="types" />
 	</ce>
-<ce folder="ce/bulletstack">
+      <ce folder="ce/bulletstack">
 	   <file name="types.xml" type="types" />
 	</ce>
 	
