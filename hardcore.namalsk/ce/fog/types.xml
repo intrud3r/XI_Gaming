@@ -10,8 +10,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_RG">
         <nominal>2</nominal>
@@ -22,8 +22,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_Tan">
         <nominal>2</nominal>
@@ -34,8 +34,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_Black">
         <nominal>2</nominal>
@@ -46,8 +46,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_White">
         <nominal>2</nominal>
@@ -58,8 +58,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_MC">
         <nominal>2</nominal>
@@ -70,8 +70,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_MCAL">
         <nominal>2</nominal>
@@ -82,8 +82,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_MCB">
         <nominal>2</nominal>
@@ -94,8 +94,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_Bag_CommsBag_MCT">
         <nominal>2</nominal>
@@ -118,8 +118,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
-        <usage name="Military" /><category name="bags" />
+        <category name="bags" />
+    <tag name="military" />
     </type>
     <type name="FOG_ArcticPants_White">
 		<nominal>2</nominal>
@@ -130,7 +130,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_Grey">
@@ -142,7 +142,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_Blue">
@@ -154,7 +154,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_Red">
@@ -166,7 +166,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_RG">
@@ -178,7 +178,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_CB">
@@ -190,7 +190,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_Black">
@@ -202,7 +202,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_MC">
@@ -214,7 +214,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_MCB">
@@ -226,7 +226,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ArcticPants_MCAL">
@@ -238,7 +238,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="">
@@ -250,7 +250,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_Blue">
@@ -262,7 +262,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_Red">
@@ -274,7 +274,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_Black">
@@ -286,7 +286,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_Grey">
@@ -298,7 +298,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_White">
@@ -310,7 +310,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_CB">
@@ -322,7 +322,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_RG">
@@ -334,7 +334,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_MC">
@@ -346,7 +346,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_MCB">
@@ -358,7 +358,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ArcticJacket_MCAL">
@@ -370,7 +370,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="">
@@ -382,7 +382,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_511_Shirt_Flanel_Grey">
@@ -394,7 +394,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_511_Shirt_Flanel_CB">
@@ -406,7 +406,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_511_Shirt_Flanel_Purple">
@@ -418,7 +418,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_511_Shirt_Flanel_BlackStriped">
@@ -430,7 +430,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_511_Shirt_Flanel_RedStriped">
@@ -442,7 +442,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_511_Shirt_Flanel_BlueStriped">
@@ -454,7 +454,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_511_Shirt_Flanel_GreenStriped">
@@ -466,7 +466,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="">
@@ -478,7 +478,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_Tan">
@@ -490,7 +490,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_White">
@@ -502,7 +502,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_Black">
@@ -514,7 +514,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_CB">
@@ -526,7 +526,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_RG">
@@ -538,7 +538,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_MC">
@@ -550,7 +550,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_MCB">
@@ -562,7 +562,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_MCAL">
@@ -574,7 +574,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_WinterGloves_Red">
@@ -586,7 +586,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="">
@@ -598,7 +598,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_HalfMask_Grey">
@@ -610,7 +610,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_HalfMask_Black">
@@ -622,7 +622,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_HalfMask_White">
@@ -634,7 +634,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_HalfMask_RG">
@@ -646,7 +646,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_HalfMask_CB">
@@ -658,7 +658,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="">
@@ -670,7 +670,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_ClimbingBoots_Brown">
@@ -682,7 +682,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="">
@@ -694,7 +694,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_CB">
@@ -706,7 +706,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_CB_BLK">
@@ -718,7 +718,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_BLK">
@@ -730,7 +730,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_RG">
@@ -742,7 +742,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_RG_BLK">
@@ -754,7 +754,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_Grey">
@@ -766,7 +766,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_MC">
@@ -778,7 +778,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_MC_BLK">
@@ -790,7 +790,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_MCB">
@@ -802,7 +802,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_MCT">
@@ -814,7 +814,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_MCAL">
@@ -826,7 +826,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_AOR1">
@@ -838,7 +838,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_AOR2">
@@ -850,7 +850,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_M81">
@@ -862,7 +862,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_DNC">
@@ -874,7 +874,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_DTGR">
@@ -886,7 +886,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Helmet_MTEK_Flux_KBTGR">
@@ -898,7 +898,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <!-- Types 1.9 -->
@@ -911,7 +911,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_FieldShorts_White">
@@ -923,7 +923,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Pants_Crye_G3_White">
@@ -935,7 +935,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_G99_Pants_White">
@@ -947,7 +947,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Gorka_Pants_White">
@@ -959,7 +959,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_MTF_Pants_White">
@@ -971,7 +971,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Crye_G3_Shirt_White">
@@ -983,7 +983,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Enhanced_PCU_White">
@@ -995,7 +995,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ISOF_Jacket_MCAL">
@@ -1007,7 +1007,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ISOF_Jacket_RG">
@@ -1019,7 +1019,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ISOF_Jacket_CB">
@@ -1031,7 +1031,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Shirt_ISOF_Jacket_White">
@@ -1043,7 +1043,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Jacket_SoftShell_White">
@@ -1055,7 +1055,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Tactical_Hoodie_White">
@@ -1067,7 +1067,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Gorka_Jacket_White">
@@ -1079,7 +1079,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_UFJ_Shirt_White">
@@ -1091,7 +1091,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_Grey">
@@ -1103,7 +1103,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_White">
@@ -1115,7 +1115,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_Blue">
@@ -1127,7 +1127,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_Red">
@@ -1139,7 +1139,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_KHK">
@@ -1151,7 +1151,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_AMCU">
@@ -1163,7 +1163,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_M81Y">
@@ -1175,7 +1175,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_BTGR">
@@ -1187,7 +1187,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_RTGR">
@@ -1199,7 +1199,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_KBTGR">
@@ -1211,7 +1211,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_UCP">
@@ -1223,7 +1223,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_TBLOCK">
@@ -1235,7 +1235,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_RDB">
@@ -1247,7 +1247,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_MARPAT">
@@ -1259,7 +1259,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_DNC">
@@ -1271,7 +1271,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_DCU">
@@ -1283,7 +1283,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_ATACSAU">
@@ -1295,7 +1295,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_ATACSFG">
@@ -1307,7 +1307,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_AOR1">
@@ -1319,7 +1319,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_AOR2">
@@ -1331,7 +1331,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_L9Patagonia_ALPF">
@@ -1343,7 +1343,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_MTF_Shirt_White">
@@ -1355,7 +1355,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Tactical_Fleece_White">
@@ -1367,7 +1367,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_6ShBagT_White">
@@ -1379,7 +1379,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_6ShBagT_EMR_White">
@@ -1391,7 +1391,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_DrawBridge_MC">
@@ -1403,7 +1403,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_DrawBridge_MCAL">
@@ -1415,7 +1415,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_DrawBridge_MCB">
@@ -1427,7 +1427,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_DrawBridge_White">
@@ -1439,7 +1439,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_BlackJack_MCT">
@@ -1451,7 +1451,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_BlackJack_MCAL">
@@ -1463,7 +1463,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_BlackJack_OD">
@@ -1475,7 +1475,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Bag_BlackJack_KHK">
@@ -1487,7 +1487,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Fleececap_Black">
@@ -1499,7 +1499,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Fleececap_Grey">
@@ -1511,7 +1511,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Fleececap_CB">
@@ -1523,7 +1523,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Fleececap_RG">
@@ -1535,7 +1535,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Fleececap_White">
@@ -1547,7 +1547,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Watchcap_Black">
@@ -1559,7 +1559,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Watchcap_Grey">
@@ -1571,7 +1571,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Watchcap_Red">
@@ -1583,7 +1583,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Watchcap_CB">
@@ -1595,7 +1595,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Watchcap_RG">
@@ -1607,7 +1607,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Watchcap_Tan">
@@ -1619,7 +1619,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Watchcap_White">
@@ -1631,7 +1631,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Arcteryx_Balaclava_White">
@@ -1643,7 +1643,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <!-- Types 1.8 -->
@@ -1656,7 +1656,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_UAPNVG_Tan">
@@ -1668,7 +1668,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_UAPNVG_RG">
@@ -1680,7 +1680,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Beard_Handlebar_LightBrown">
@@ -1692,7 +1692,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Beard_Handlebar_Brown">
@@ -1704,7 +1704,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Beard_Handlebar_Black">
@@ -1716,7 +1716,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_Beard_Handlebar_Grey">
@@ -1728,7 +1728,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_GrassMulti">
@@ -1740,7 +1740,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_GrassGreen">
@@ -1752,7 +1752,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_Grass">
@@ -1764,7 +1764,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_BushYellow">
@@ -1776,7 +1776,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_Urban">
@@ -1788,7 +1788,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_Snow">
@@ -1800,7 +1800,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_Rags">
@@ -1812,7 +1812,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_RagsMCB">
@@ -1824,7 +1824,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_Pine">
@@ -1836,7 +1836,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_Green">
@@ -1848,7 +1848,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_MCBrowns">
@@ -1860,7 +1860,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieBushrag_Leaf">
@@ -1872,7 +1872,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_GrassMulti">
@@ -1884,7 +1884,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_GrassGreen">
@@ -1896,7 +1896,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_Grass">
@@ -1908,7 +1908,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_BushYellow">
@@ -1920,7 +1920,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_Urban">
@@ -1932,7 +1932,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_Snow">
@@ -1944,7 +1944,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_Rags">
@@ -1956,7 +1956,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_RagsMCB">
@@ -1968,7 +1968,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_Pine">
@@ -1980,7 +1980,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_Green">
@@ -1992,7 +1992,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_MCBrowns">
@@ -2004,7 +2004,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieTop_Leaf">
@@ -2016,7 +2016,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_GrassMulti">
@@ -2028,7 +2028,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_GrassGreen">
@@ -2040,7 +2040,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_Grass">
@@ -2052,7 +2052,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_BushYellow">
@@ -2064,7 +2064,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_Urban">
@@ -2076,7 +2076,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_Snow">
@@ -2088,7 +2088,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_Rags">
@@ -2100,7 +2100,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_RagsMCB">
@@ -2112,7 +2112,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_Pine">
@@ -2124,7 +2124,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_Livonia">
@@ -2136,7 +2136,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_MCBrowns">
@@ -2148,7 +2148,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieSuit_Leaf">
@@ -2160,7 +2160,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_GrassMulti">
@@ -2172,7 +2172,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_GrassGreen">
@@ -2184,7 +2184,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_Grass">
@@ -2196,7 +2196,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_BushYellow">
@@ -2208,7 +2208,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_Urban">
@@ -2220,7 +2220,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_Snow">
@@ -2232,7 +2232,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_Rags">
@@ -2244,7 +2244,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_RagsMCB">
@@ -2256,7 +2256,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_Pine">
@@ -2268,7 +2268,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_Green">
@@ -2280,7 +2280,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_MCBrowns">
@@ -2292,7 +2292,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieAtt_Leaf">
@@ -2304,7 +2304,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_GrassMulti">
@@ -2316,7 +2316,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_GrassGreen">
@@ -2328,7 +2328,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_Grass">
@@ -2340,7 +2340,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_BushYellow">
@@ -2352,7 +2352,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_Urban">
@@ -2364,7 +2364,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_Snow">
@@ -2376,7 +2376,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_Rags">
@@ -2388,7 +2388,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_RagsMCB">
@@ -2400,7 +2400,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_Pine">
@@ -2412,7 +2412,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_Green">
@@ -2424,7 +2424,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_MCBrowns">
@@ -2436,7 +2436,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>
     <type name="FOG_GhillieHood_Leaf">
@@ -2448,7 +2448,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
-        <category name="weapons" />
+        
         <usage name="Military" /><category name="clothes" />
     </type>    
 <!-- Types 1.7 -->
